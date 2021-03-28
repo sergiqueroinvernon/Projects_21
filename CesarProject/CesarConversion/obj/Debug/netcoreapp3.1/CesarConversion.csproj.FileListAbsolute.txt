@@ -1,0 +1,13 @@
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.exe
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.deps.json
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.runtimeconfig.json
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.runtimeconfig.dev.json
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.dll
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\bin\Debug\netcoreapp3.1\CesarConversion.pdb
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.csprojAssemblyReference.cache
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.AssemblyInfoInputs.cache
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.AssemblyInfo.cs
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.csproj.CoreCompileInputs.cache
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.dll
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.pdb
+C:\Users\Sergi\source\repos\NUnitTestProject1\CesarConversion\obj\Debug\netcoreapp3.1\CesarConversion.genruntimeconfig.cache

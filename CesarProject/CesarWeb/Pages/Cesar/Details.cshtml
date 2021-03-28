@@ -1,0 +1,32 @@
+﻿@page
+@model 
+Web.Pages.Cesar.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>CesarNum</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CesarNum.Nummer)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CesarNum.Nummer)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CesarNum.Conversion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.CesarNum.Conversion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.CesarNum.ID">Bearbeiten</a> |
+    <a asp-page="./Index">Zurück zur Liste</a>
+</div>

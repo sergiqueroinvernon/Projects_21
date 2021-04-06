@@ -1,0 +1,143 @@
+header {
+
+}
+
+body{
+
+}
+main {
+
+
+
+}
+.mainh1{
+    font-size: 50px;
+    padding-left: 20px;
+}
+
+.title {
+    font-size: 50px;
+    padding-left: 1%;
+}
+.colors .title {
+    padding-left: 18px;
+}
+.colors {
+ 
+    border:1px solid black;
+    margin: 10px;
+}
+.colors-div {
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.colors-div > div {
+
+    flex: 30%;
+    box-shadow: 0 0 0 1px black;
+    margin: 10px;
+}
+.colors div p {
+
+    padding: 10px;
+    margin: 10px;
+    
+
+}
+.colors .blue {
+    
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.colors .pink {
+    background-color: #d957d9;
+    color: black;
+   
+}
+
+
+.colors .mint {
+    background-color: #4fe0b0;
+    color: black;
+   
+}
+
+.colors .beige {
+    background-color: #efd9ca;
+    color: black;
+}
+
+.fonts {
+    margin: 10px;
+    border:1px solid black;
+    padding: 60px 10px 30px 10px;
+}
+
+ .fonts h2 {
+    font-weight: 5%;
+    text-decoration: underline;
+}
+.fonts-div {
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fonts-div > div {
+    flex: 30%;
+    margin: 10px;
+}
+  
+.fonts-div > div > p {
+    margin: 10px;
+}
+.sourcecode  {
+font-family:'Source Code Pro';
+}
+
+.nunito {
+font-family:'Nunito Sans';
+}
+
+.poppins {
+font-family: 'Poppins';
+}
+
+
+
+.poppins p {
+
+}
+.styles  {
+    margin: 10px 10px;
+    border:1px solid black;
+    padding: 60px 10px 30px 10px;
+
+}
+
+.styles div {
+    margin: 10px;
+}
+
+.styles h1 {
+    font-weight: 700;
+    font-size: 26px;
+    font-family: 'Nunito Sans';
+}
+
+.styles h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins';
+
+}
+
+.styles h3 {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: 'Poppins';
+
+}
+

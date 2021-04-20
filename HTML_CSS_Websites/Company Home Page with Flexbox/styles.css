@@ -1,0 +1,90 @@
+/*General*/
+
+/*Title*/
+.title{
+    text-align: center;
+    background-color: gold;
+}
+
+/*navbar*/
+navbar {
+    background-color: gold;
+}
+
+
+.ul-wrap {
+  
+    border: solid 2px black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
+/*Section Mission*/
+.mission {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+
+.mission > div {
+    display: flex;
+    flex-wrap:wrap;
+    padding: 5%;
+}
+
+.missionwrap > h2 {
+    display: flex;
+    text-align: center;
+
+}
+
+/*Section Products*/
+.products {
+   
+}
+.productswrap {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+    height: 600px;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+/*Section Employees*/
+.employees {
+    padding: 20px;
+    background-color: rgb(178, 178, 230);
+}
+
+.employeeswrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+/*Section Contact*/
+.contact {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: goldenrod;
+}
+
+
+/*Footer*/
+footer {
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background-color: blueviolet;
+}
+

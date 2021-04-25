@@ -1,0 +1,117 @@
+
+
+.title {
+background-color: rgb(33, 34, 34);
+color: white;
+display: flex;
+flex-flow: row wrap;
+align-items: center;
+background-color: orange;
+justify-content: space-around;
+
+
+}
+
+.titleh1 {
+    background-color: rgb(21, 22, 22);
+    display: flex;
+    justify-content: flex-start;
+}
+
+.buttons {
+
+ display: flex;
+ justify-content: flex-end;
+ background-color: rgb(238, 245, 245);
+
+
+}
+
+.buttons > button {
+    background-color: rgb(241, 234, 234);
+   
+    
+    
+    
+   
+}
+
+.gridparent {
+    display: grid;
+    grid-template-columns: repeat(5, minmax(150px,auto));
+    grid-template-rows: repeat(5, minmax(50px,auto));
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  
+    }
+
+
+
+.gridaboutme {
+  
+    grid-area: 1 / 1 / 2 / 6;
+    background-color: aquamarine;
+
+}
+
+.wrapaboutme{
+    flex-wrap: wrap;
+    display: flex;
+    flex-flow: row;
+    
+    
+}
+
+.wrapaboutme > div {
+    display: flex;
+    background-color: rgb(0, 246, 33);
+    
+}
+
+
+.gridprojectsskills {
+    grid-area: 2 / 1 / 3 / 6;
+    background-color: aqua;
+
+}
+
+.gridcontact {
+    grid-area: 3 / 1 / 3 / 6;
+    background-color: gold;
+  
+}
+
+.gridfooter {
+    
+    grid-area: 4 / 1 / 4 / 6;
+    background-color: beige;
+  
+}
+
+footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background-color: rgb(218, 207, 207);
+}
+
+
+nav > li {
+    display: flex;
+
+}
+nav > img{
+    display: flex;
+
+}
+
+
+
+
+
